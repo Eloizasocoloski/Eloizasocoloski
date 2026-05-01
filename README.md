@@ -25,6 +25,6 @@ Currently, I am improving my skills in data structures, object-oriented programm
 ## 📫 Contact
 
 📧 Email: eloizasocoloskipereira15@gmail.com
-💼 LinkedIn: https://linkedin.com/in/yourusername
+💼 LinkedIn: https://www.linkedin.com/EloizaSocoloski
 
 ---
